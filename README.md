@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hisham101
 - 👀 I’m interested in ...web development
-- 🌱 I’m currently learning ...javaScript
+- 🌱 I’m currently learning ...BackEnd
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...by mail
 
